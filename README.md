@@ -1,7 +1,7 @@
 <h1 align="center">Bom dia 👋, Me chamo Matheus Spagiari</h1>
 <h3 align="center">Entusiasta em Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souzaspa&label=Profile%20views&color=0e75b6&style=flat" alt="souzaspa" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=souzaspa&label=Profile%20views&color=0e75b6&style=flat" alt="souzaspa" /> </p>-->
 
 - Aprendendo atualmente **Python, Power BI, SQL**
 
