@@ -1,9 +1,9 @@
 <h1 align="center">Bom dia 👋, Me chamo Matheus Spagiari</h1>
 <h3 align="center">Entusiasta em Data Science</h3>
 
-- Aprendendo atualmente **Python, Power BI, SQL**
+- Aprendendo atualmente **Python, SQL**
 
-- Pergunte-me sobre **Front-end, Python, Power BI, SQL**
+- Pergunte-me sobre **Front-end, Python, SQL**
 
 - Encontre-me em **souzaspa@hotmail.com**
 
