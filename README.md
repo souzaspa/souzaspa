@@ -1,5 +1,5 @@
 <h1 align="center">Bom dia 👋, Me chamo Matheus Spagiari</h1>
-<h3 align="center">Entusiasta em Data Science</h3>
+<h3 align="center">Entusiasta em Python e Front-end</h3>
 
 - Aprendendo atualmente **Python, SQL**
 
